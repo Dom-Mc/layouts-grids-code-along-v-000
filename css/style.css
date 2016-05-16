@@ -1,0 +1,16 @@
+/* MEDIA */
+audio,
+form,
+iframe,
+img,
+table,
+video {
+    width    : 100%;
+    /* IE */
+    max-width: 100%;
+    /* FF, Safari, Chrome */
+}
+/* LAYOUT STYLES */
+.row {
+    margin-bottom: 20px;
+}
